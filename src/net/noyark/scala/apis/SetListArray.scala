@@ -1,4 +1,4 @@
-package net.noyark.scala.day02
+package net.noyark.scala.apis
 
 import scala.collection.mutable.ArrayBuffer
 
